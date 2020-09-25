@@ -4,6 +4,8 @@ tags: Linux
 categories: Linux
 ---
 
+* TOC
+{:toc}
 
 ## Linux常用命令统计
 
