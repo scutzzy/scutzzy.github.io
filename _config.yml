@@ -27,11 +27,11 @@ defaults:
 
 
 
-title: "bit-ranger"
-email: sincerebravefight@gmail.com
+title: "scutzzy"
+email: zzygit@gmail.com
 description: ""
 github:
-  username: bit-ranger
+  username: scutzzy
 swiftype:
   searchId: iXZyPokVfxFaBTvi64Y6
 gitment:
@@ -39,10 +39,5 @@ gitment:
     client_id: c81df9b511e1408813b7
     client_secret: f9efc7ae41a09b94e306fd34cb32d8fc959594d8
 
-url: "https://bit-ranger.github.io/blog"
-imgrepo: "https://bit-ranger.github.io/blog/static/img"
-
-
-#url: "http://127.0.0.1:4000"
-#imgrepo: "http://127.0.0.1:4000/static/img"
-
+url: "https://scutzzy.github.io/blog"
+imgrepo: "https://scutzzy.github.io/blog/static/img"
