@@ -39,8 +39,8 @@ gitment:
     client_id: c81df9b511e1408813b7
     client_secret: f9efc7ae41a09b94e306fd34cb32d8fc959594d8
 
-url: "https://scutzzy.github.io/blog"
-imgrepo: "https://scutzzy.github.io/blog/static/img"
+url: "https://bit-ranger.github.io/blog"
+imgrepo: "https://bit-ranger.github.io/blog/static/img"
 
 
 #url: "http://127.0.0.1:4000"
