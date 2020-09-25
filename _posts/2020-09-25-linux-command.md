@@ -7,7 +7,8 @@ categories: Linux
 
 ## Linux常用命令统计
 
-+ > chmod -R 775 *dir*  chown -R user[:group] *dir*
++ > chmod -R 775 *dir*  
+  > chown -R user[:group] *dir*
     + R(4)  W(2)  X(1)
     + User  Group Other
 
