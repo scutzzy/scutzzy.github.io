@@ -1,0 +1,21 @@
+---
+title: 博客介绍
+tags: Linux
+categories: Linux
+---
+
+
+## Linux常用命令统计
+
++ > chmod -R 775 *dir*  chown -R user[:group] *dir*
+    + R(4)  W(2)  X(1)
+    + User  Group Other
+
+---
++ > ps -ef | grep *processName*
+    + -e show all process
+    + -f detail info
+    + | 管道符号 左边输出为右边输入
+    + grep Global Regular Expression Print
+
++ 
