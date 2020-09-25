@@ -1,5 +1,5 @@
 ---
-title: 博客介绍
+title: Linux常用命令统计
 tags: Linux
 categories: Linux
 ---
@@ -7,7 +7,6 @@ categories: Linux
 * TOC
 {:toc}
 
-## Linux常用命令统计
 
 + > chmod -R 775 *dir*  
   > chown -R user[:group] *dir*

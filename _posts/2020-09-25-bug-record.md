@@ -1,5 +1,5 @@
 ---
-title: 博客介绍
+title: Bug记录
 tags: Bugs
 categories: Bugs
 ---
@@ -8,12 +8,12 @@ categories: Bugs
 {:toc}
 
 
-## Bug记录
-
 + Bugs Decription 
   > *bugs description*
+
   Bugs Solution 
   > *bugs solution*
+
   Refer
   > *refer*
 
@@ -21,7 +21,9 @@ categories: Bugs
 
 + Bugs Decription 
   > *bugs description*
+
   Bugs Solution 
   > *bugs solution*
+  
   Refer
   > *refer*
