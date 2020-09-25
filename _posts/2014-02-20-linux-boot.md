@@ -10,7 +10,7 @@ published: false
 * TOC 
 {:toc}
 
-![](http://image.beekka.com/blog/201308/bg2013081708.png)
+![](http://image.beekka.com/201308/bg2013081708.png)
 
 # 1.加载内核
 
