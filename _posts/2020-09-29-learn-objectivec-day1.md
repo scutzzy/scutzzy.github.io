@@ -5,12 +5,11 @@ categories: Objective-C
 ---
 
 
-2020.10.12就要去字节实习了，重没接触过IOS开发，但从本科学习Android开发的点点经验看，入门应该不是很难，
+2020.10.12就要去字节实习了，从没接触过IOS开发，但从本科学习Android开发的点点经验看，入门应该不是很难，
 现在很多数据和视频都讲解的是Swift和SwiftUI，但问了mentor后说字节采用的目前主要还是Objective-C和UIKIT,
 所以就从最古老的书籍开始看起吧
 
-看了一圈知乎和Quora，最终选定了《Programming in Objective-C》这本书，有C++的基础，不知道看完这500页需要多久，
-整个Checkbox玩玩吧~
+看了一圈知乎和Quora，最终选定了《Programming in Objective-C》这本书，有C++的基础，不知道看完这500页需要多久
 
 - [ ] Chapter 1. The Objective-C Language Page:0-304
 - [ ] Chapter 2. The Foundation Framework Page:307-449
@@ -164,4 +163,16 @@ with an underscore (_) character as the first character of its name.
 @end
 ```
 
-> 135 页
+> ```
+> [myFraction numerator] = myFraction.numerator  
+> [instance setProperty : value] = instance.property = value
+> ```
+
+开始怀疑这本书值不值得读...前150页一直让我感觉不能这样做
+
+> Based on the preceding discussion, realize that although it’s syntactically correct to write a statement such as myFraction.print , it’s not considered good programming style. The dot operator was really intended to be used with properties; typically to set/get the value of an instance variable. Methods that do other work are typically not executed using the dot operator; the traditional bracketed message expression is the preferred syntax.
+
+目前还没感受到
+
+## Inheritance
+//153
