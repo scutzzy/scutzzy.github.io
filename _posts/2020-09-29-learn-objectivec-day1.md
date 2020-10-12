@@ -1,7 +1,7 @@
 ---
 title: Learn Objective-C
-tags: Objective-C
-categories: Objective-C
+tags: Objective-C iOS
+categories: Objective-C iOS
 ---
 
 
